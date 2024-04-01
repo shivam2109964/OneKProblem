@@ -32,8 +32,8 @@ void multiplyNum(int min, int max) {
 }
 
 void main() {
-  int min = 10000;
-  int max = 99999;
+  int min = 100;
+  int max = 999;
 
   multiplyNum(min, max);
 }
